@@ -1,8 +1,7 @@
 # Hello, all!
-My name is Keshavaditya Golla and currently I am currently working at Continental as a Test and Validation Framework Architect for ADAS.
-I am from India and currently living in Germany. 
+My name is Keshavaditya and currently I am currently working in ADAS. I am from India and currently living in Germany. 
 
-I’m currently learning Flutter and learning and growing my skillset in deep learning.
+I’m currently learning and growing my skillset in deep learning and Flutter.
 
 You can reach me at <a href="https://www.linkedin.com/in/keshavaditya-golla"> <img alt="Keshavaditya's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a> [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:keshav.aditya19@gmail.com)](mailto:keshav.aditya19@gmail.com)
